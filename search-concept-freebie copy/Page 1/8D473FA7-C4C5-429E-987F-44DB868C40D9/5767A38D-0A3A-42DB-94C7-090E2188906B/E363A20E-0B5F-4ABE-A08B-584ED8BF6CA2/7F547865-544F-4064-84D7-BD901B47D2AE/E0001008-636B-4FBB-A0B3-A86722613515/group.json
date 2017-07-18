@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E0001008-636B-4FBB-A0B3-A86722613515",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 181,
+    "x": 15,
+    "y": 48
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lojas Americanas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "59912185-1E8A-4187-8E47-D41CBB38C23E",
+      "class": "text"
+    },
+    {
+      "id": "756631B3-5D5C-479B-B81D-9865263AAC22",
+      "class": "text"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5EDA2042-B69B-4983-9864-DD887D432E32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 261,
+    "x": 15,
+    "y": 9
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Americanas.com",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "47A3334D-B5A3-45B0-9849-0C07D9F8A2D6",
+      "class": "text"
+    },
+    {
+      "id": "B64161FE-D257-4164-9982-D6E308EAB992",
+      "class": "text"
+    }
+  ]
+}
